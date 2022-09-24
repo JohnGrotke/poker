@@ -1,0 +1,1 @@
+gcc -Wall poker.c score.c test_score.c poker.h shuffle.s -o poker

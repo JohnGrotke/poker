@@ -1,0 +1,1 @@
+gcc -o test_uniform test_uniform.c shuffle.s
